@@ -31,7 +31,7 @@ const translations = {
         inventory_empty: "Инвентарь пуст.",
         withdraw_button: "Вывести",
         withdraw_button_sent: "Заявка отправлена",
-        withdraw_info_message: "Для вывода скина '{itemName}' напишите нашему администратору @AdminUsername и укажите ваш ID: {userId}",
+        withdraw_info_message: "Для вывода скина '{itemName}' напишите нашему администратору @AdminUsername",
         // Страница улучшения
         upgrade_title: "Улучшение скинов",
         upgrade_description: "Выберите 10 предметов для создания нового.",
@@ -71,7 +71,7 @@ const translations = {
         inventory_empty: "Inventory is empty.",
         withdraw_button: "Withdraw",
         withdraw_button_sent: "Request sent",
-        withdraw_info_message: "To withdraw '{itemName}', please contact our admin @AdminUsername and provide your ID: {userId}",
+        withdraw_info_message: "To withdraw '{itemName}', please contact our admin @AdminUsername ",
         // Upgrade page
         upgrade_title: "Skin Upgrade",
         upgrade_description: "Select 10 items to craft a new one.",
