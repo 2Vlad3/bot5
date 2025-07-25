@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         name: tg.initDataUnsafe?.user?.first_name || 'Username',
         username: tg.initDataUnsafe?.user?.username || 'user',
         photo: tg.initDataUnsafe?.user?.photo_url || `https://placehold.co/48x48/f6a828/ffffff?text=${(tg.initDataUnsafe?.user?.first_name || 'U').charAt(0)}`,
-        balance: 5000,
+        balance: 100000,
         level: 12,
         casesOpened: 78,
         status: 'PRO',
